@@ -1,8 +1,11 @@
 # Assignment 02 · Automobile Sales During Recessions
 
-This portfolio write-up reproduces selected CISC7204 Assignment 02 analyses. I compared average automobile sales over time and by vehicle type across recession and non-recession observations.
+This portfolio covers both Assignment 02 final-project labs. The course folder labels them Module 05 Final Project.
 
-The [IBM Skills Network historical automobile-sales dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv) contains 528 records spanning 1980–2023. The submitted notebook used a 528-record reference copy. The fields used here and the resulting comparisons match the provider file. The source is available for download. Redistribution terms were not confirmed, so the repository contains an independent analysis script, aggregate charts and this write-up.
+- [Lab 01 · Automobile sales visualizations](lab01/) compares sales over time and across recession periods.
+- [Lab 02 · Interactive Dash dashboard](lab02/) provides yearly and recession reports with interactive filters.
+
+The [IBM Skills Network historical automobile-sales dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv) contains 528 records spanning 1980–2023. The submitted Lab 01 notebook used a 528-record reference copy. The fields used by the analysis below match the provider file. The source is available for download. Dataset redistribution terms have not been confirmed.
 
 ## Findings
 
